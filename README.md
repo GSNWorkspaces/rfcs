@@ -1,2 +1,2 @@
 # rfcs
-GWs Request for comments
+Gate request for comments
